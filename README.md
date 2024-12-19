@@ -11,8 +11,12 @@ Submit a Jupyter notebook (.ipynb file) or Python script (.py file) containing:
 Data loading and exploration steps.
 Basic data analysis results.
 Visualizations.
+<<<<<<< HEAD
 Any findings or observations
 
+=======
+Any findings or observations.
+>>>>>>> 7370fcc64e80256ec21a9d731fab120551f3040f
 
 Task 1: Load and Explore the Dataset
 Choose a dataset in CSV format (for example, you can use datasets like the Iris dataset, a sales dataset, or any dataset of your choice).
